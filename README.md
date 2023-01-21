@@ -1,8 +1,5 @@
 # calculator
 using html, CSS, javascript
-### Hi there 👋
-
-
 
 
 
