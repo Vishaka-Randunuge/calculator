@@ -9,7 +9,7 @@ using html, CSS, javascript
 
 <h5>The calculator has a lighert mode and a darker mode and is responsive</h5>
 
-<img src="https://github.com/Vishaka-Randunuge/calculator/blob/main/calculator-dark.jpg" alt="Alt text" title="Optional title" |width=100px>
+<img src="https://github.com/Vishaka-Randunuge/calculator/blob/main/calculator-dark.jpg" alt="Alt text" title="Optional title">
 <h4>Dark mode</h4>
 
 <br>
